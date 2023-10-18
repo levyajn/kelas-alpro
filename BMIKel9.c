@@ -37,7 +37,7 @@ int main(){
         tinggi=tinggi/100;
         BMI=berat/(tinggi*tinggi);
         printf("BMI : %.1f \n",BMI);
-        if (BMI>=18 && BMI<25){
+        if (BMI>=17 && BMI<23){
             printf("Berat badan anda ideal");
         }
         else{
