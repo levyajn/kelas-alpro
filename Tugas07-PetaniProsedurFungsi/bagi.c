@@ -1,4 +1,4 @@
-#include <stdio.h>
+    #include <stdio.h>
 
 float bagi(int a, int b){
     float hasil = (float)a / (float)b;
